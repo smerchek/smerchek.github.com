@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: open-source | Scott Smerchek]]></title>
+  <link href="http://smerchek.github.com/blog/categories/open-source/atom.xml" rel="self"/>
+  <link href="http://smerchek.github.com/"/>
+  <updated>2012-07-11T21:41:20-05:00</updated>
+  <id>http://smerchek.github.com/</id>
+  <author>
+    <name><![CDATA[Scott Smerchek]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Speaking about Solr at KCDC]]></title>
+    <link href="http://smerchek.github.com/blog/2012/02/20/speaking-about-solr-at-kcdc/"/>
+    <updated>2012-02-20T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/02/20/speaking-about-solr-at-kcdc</id>
+    <content type="html"><![CDATA[<p>I will be speaking this year at the Kansas City Developer Conference(<a href="http://kcdc.info/">KCDC</a>)! The title of my talk is "Open Source RESTful Search: Solr" and the topic, obviously, is <a href="http://lucene.apache.org/solr/">Solr</a>. You can find the schedule for my talk and others in the <a href="http://kcdc.info/agenda/">agenda</a>.</p>
+
+<p>This will be my first time giving a technical presentation, and I'm excited to have the privilege to give it at KCDC.</p>
+
+<h3>My Abstract</h3>
+
+<blockquote><p>Solr is an open source search platform built on top of the Apache Lucene project. Solr wraps Lucene with a nice RESTful API, and adds other features like faceted search, grouping, field types, caching, xml configuration, an administration interface, and the ability to scale with distributed search. This session will start with the basics of Solr and Lucene. We'll then touch on some of the advanced/awesome features of Solr and also look at how to extend Solr with additional pluggable functionality. This will of course be supplemented with working examples and demos.</p></blockquote>
+
+<p>I have a pretty good idea of the makeup of my presentation, and I'm working on coming up with a good demo that's easy enough to understand yet still shows off the cool features of Solr. I'd like to open up some discussion to help improve the quality talk. I do have an hour to present, so I think I can get in a good mix of introductory material, advanced material, and some good demos.</p>
+
+<p>So, what would you expect out of this presentation? Based on my abstract, am I missing anything that you'd like to see or should I specifically focus on some other aspect? Let me know in the comments!</p>
+]]></content>
+  </entry>
+  
+</feed>

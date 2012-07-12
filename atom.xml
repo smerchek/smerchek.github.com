@@ -4,7 +4,7 @@
   <title><![CDATA[Scott Smerchek]]></title>
   <link href="http://smerchek.github.com/atom.xml" rel="self"/>
   <link href="http://smerchek.github.com/"/>
-  <updated>2012-07-11T19:33:55-05:00</updated>
+  <updated>2012-07-11T21:41:20-05:00</updated>
   <id>http://smerchek.github.com/</id>
   <author>
     <name><![CDATA[Scott Smerchek]]></name>
@@ -12,5 +12,323 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Speaking about Solr at KCDC]]></title>
+    <link href="http://smerchek.github.com/blog/2012/02/20/speaking-about-solr-at-kcdc/"/>
+    <updated>2012-02-20T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/02/20/speaking-about-solr-at-kcdc</id>
+    <content type="html"><![CDATA[<p>I will be speaking this year at the Kansas City Developer Conference(<a href="http://kcdc.info/">KCDC</a>)! The title of my talk is &#8220;Open Source RESTful Search: Solr&#8221; and the topic, obviously, is <a href="http://lucene.apache.org/solr/">Solr</a>. You can find the schedule for my talk and others in the <a href="http://kcdc.info/agenda/">agenda</a>.</p>
+
+<p>This will be my first time giving a technical presentation, and I&#8217;m excited to have the privilege to give it at KCDC.</p>
+
+<h3>My Abstract</h3>
+
+<blockquote><p>Solr is an open source search platform built on top of the Apache Lucene project. Solr wraps Lucene with a nice RESTful API, and adds other features like faceted search, grouping, field types, caching, xml configuration, an administration interface, and the ability to scale with distributed search. This session will start with the basics of Solr and Lucene. We&#8217;ll then touch on some of the advanced/awesome features of Solr and also look at how to extend Solr with additional pluggable functionality. This will of course be supplemented with working examples and demos.</p></blockquote>
+
+<p>I have a pretty good idea of the makeup of my presentation, and I&#8217;m working on coming up with a good demo that&#8217;s easy enough to understand yet still shows off the cool features of Solr. I&#8217;d like to open up some discussion to help improve the quality talk. I do have an hour to present, so I think I can get in a good mix of introductory material, advanced material, and some good demos.</p>
+
+<p>So, what would you expect out of this presentation? Based on my abstract, am I missing anything that you&#8217;d like to see or should I specifically focus on some other aspect? Let me know in the comments!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Importance of Working on Interesting Problems]]></title>
+    <link href="http://smerchek.github.com/blog/2012/02/16/working-on-interesting-problems/"/>
+    <updated>2012-02-16T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/02/16/working-on-interesting-problems</id>
+    <content type="html"><![CDATA[<p>How important is it to work on interesting and/or challenging problems? I propose that it is <strong>very</strong> important.</p>
+
+<p>I have been quite privileged at <a href="http://www.softekinc.com">Softek</a> to have worked on mostly very interesting and often challenging problems, projects, and products. However, I was tasked with a less than interesting and more tedious than challenging project for several weeks. Having since finished that project and moved back to the interesting sort of projects, I&#8217;ve realized how much of a difference it makes for my productiveness and happiness to work on interesting projects.</p>
+
+<p>At <a href="http://www.softekinc.com">Softek</a>, I work on a clinical application for radiologists. Developing Health care software is mostly very interesting and challenging. Some aspects of Health care software, however, are not very interesting and can be very tedious. I was pulled off one of the interesting projects to work on one of those uninteresting projects last month. Let&#8217;s talk about that month.</p>
+
+<h2>An <em>Uninteresting</em> Problem</h2>
+
+<p>I already was frustrated when I started working on it because I had to switch contexts to work on this new project. To make matters worse, the problem wasn&#8217;t very interesting or compelling, yet we had to do it. We also knew that it would take about a month to complete.</p>
+
+<p>So, uninteresting&#8230; got it. Let&#8217;s focus on the effects and outcomes of that month.</p>
+
+<h3>Sluggishness</h3>
+
+<p>I felt really sluggish throughout that month. Partly, my mind was still thinking about the other project, so I was having a hard time switching contexts and getting up to speed. Also, I feel like I never got into the &#8220;zone&#8221; that month, or if I did, rarely. Even though I was getting things done, I felt unproductive and it seemed like my time would have been better spent elsewhere.</p>
+
+<h3>Burn out</h3>
+
+<p>For the first time at Softek, I was beginning to experience burn out. Day after day, I started to dread going in to work. I can&#8217;t explain it—I have always enjoyed going to work, but during that month I simply didn&#8217;t. This was a really dangerous place to be because I began to consider greener pastures outside of Softek. It&#8217;s a good thing this project had a month-long limit; I seriously doubt I could have gone on like that for much longer.</p>
+
+<h3>Seeing the Light</h3>
+
+<p>Because I knew this was a finite project, I knew there would be an end, and that end was in sight. At that point, I knew I just had to power through it. I still battled the sluggishness and burn out, but I was at least determined to get through it and do a good job at the same time.</p>
+
+<p>So, I survived.</p>
+
+<h2>The Takeaway</h2>
+
+<p>Working on uninteresting things is not positive. It impacts the happiness of the developers, and makes them less productive. The ROI better be good to make your developers work on these things. They will do much better working on problems that interest them.</p>
+
+<h3>What I&#8217;m Looking Forward To</h3>
+
+<p>There are a <em>LOT</em> of interesting projects in our pipeline, and I&#8217;m really excited to work on them. We&#8217;re getting better as an organization at managing scope-creep, sales-centered requirements, and other things that lead towards uninteresting projects. Sometimes, we just have to solve problems that aren&#8217;t that fun, but fortunately those are a rare breed at Softek. We are building some great software that is helping to save lives. It really is fun to go to work again, and I think it will stay that way for some time.</p>
+
+<p>If you have any tips for avoiding burn out in situations like this, share your story in the comments!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Area User Groups: A Collaborative Approach]]></title>
+    <link href="http://smerchek.github.com/blog/2012/02/08/area-users-groups-a-collaborative-approach/"/>
+    <updated>2012-02-08T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/02/08/area-users-groups-a-collaborative-approach</id>
+    <content type="html"><![CDATA[<p>Lately, I&#8217;ve been dissatisfied with some of our Kansas City technical user groups. If the topic for the evening is interesting, I will usually go. However, when I do attend, I often leave disappointed.</p>
+
+<p>Why? The main reason is that these user groups consist of one or two people speaking <em>at</em> a group of 20 or so other people. This doesn&#8217;t provide a great environment for the group. There aren&#8217;t any stimulating conversations, it&#8217;s hard to get to know others in the group—it just feels empty.</p>
+
+<p>So, how can this problem be resolved?</p>
+
+<h2>Trying something different</h2>
+
+<p>A couple coworkers (<a href="http://dunkman.org">Andrew Dunkman</a>, <a href="http://twitter.com/joeandaverde">Joe Andaverde</a>, and <a href="http://twitter.com/dustyburwell">Dusty Burwell</a>) and myself are trying something different. We started <a href="http://www.nodekc.org">NodeKC</a>.</p>
+
+<p>Not only did we want a group where we could play with and learn <a href="http://www.nodejs.org">node</a>, we wanted a group that was exciting to be a part of, and one that didn&#8217;t leave you disappointed. While starting this group, we thought through a lot of things that we disliked about other groups that we were attending.</p>
+
+<p>We also thought about the main reasons people want to go to a user group. People want to learn. They want to connect with others with similar interests. They want to be able to apply what they learn. And they want to be able to go beyond their day-to-day job and do something fun.</p>
+
+<p>So, I would like to propose some &#8220;foundational concepts&#8221; that we decided will guide our group. Hopefully, they will apply to other groups as well.</p>
+
+<h2>Foundational Concepts</h2>
+
+<h3>Collaborative project-based meetups</h3>
+
+<p>We want to collaborate with others, not just listen to one person. We want to learn by doing. We want to create something. And like many, we could use some cred on <a href="http://github.com">GitHub</a>. We hope that this environment fosters a engaged community that encourages helping others and learning from each other.</p>
+
+<h3>Interesting location with collaborative seating</h3>
+
+<p>A classroom is not going to work for this group. We want a location that encourages creativity and collaboration. And it doesn&#8217;t hurt if there is beer served there as well. Our first meetup was at <a href="http://snowandcompany.com/">Snow and Company</a> which worked well because we could rearrange the seating and huddle in one or two groups.</p>
+
+<h3>Facilitate contact sharing and meeting new people</h3>
+
+<p>We want new people to feel welcome and to be able to easy connect with others in the group. We want to encourage knowing others in the group well. We&#8217;re hoping the collaboration dynamic will help with this. Also, we&#8217;ll be switching up pairing and teams every time to ensure good cross-pollination.</p>
+
+<h3>Encourage failing</h3>
+
+<p>This is one I learned at <a href="http://www.scottsmerchek.com/codemash-2012-there-and-back-again">CodeMash</a>. We want to have an environment where it is okay to fail. When we fail, we learn, and that is okay. If we are afraid to go out of our comfort zone, then we will never reach our full potential. We have to be okay with failing to make this collaboration thing work.</p>
+
+<h3>Prerequisites made known ahead of time</h3>
+
+<p>Since we&#8217;re going to be actually coding, we want everyone to know how to get setup ahead of time. We hope that everyone can get the boilerplate done ahead of time, so we can focus on the interesting stuff. We try to make these known through our <a href="http://groups.google.com/group/nodekc">google group</a> and <a href="http://twitter.com/nodekc">twitter</a>.</p>
+
+<h3>No supplied food</h3>
+
+<p>We want to attract people genuinely interested in node and contributing to the group. Free food or not, these people will come, but we don&#8217;t want to advertise free food and attract the wrong people. This affects the timing of our meetup, so we start a 7:00pm to allow people the time to get food before attending.</p>
+
+<h2>Takeaway</h2>
+
+<p>I hope that our approach will work for more than just our group. If you already have a group like this, then great! If you wish you did, then start one! If you organize a group, maybe these concepts don&#8217;t all apply, but hopefully you can apply them in a way that fits the dynamics and intricacies in your group.</p>
+
+<p>I realize that every group is different, and this approach may even fail terribly months from now. But for now, it&#8217;s working pretty great. If you have ideas or critiques, please do leave a comment!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Discipline in Software Development and in Life]]></title>
+    <link href="http://smerchek.github.com/blog/2012/01/31/discipline-in-software-development-and-in-life/"/>
+    <updated>2012-01-31T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/01/31/discipline-in-software-development-and-in-life</id>
+    <content type="html"><![CDATA[<p>We require discipline in every facet of our lives. It takes discipline to practice every day to master an instrument. It takes discipline to study in college when everyone wants to just have fun. It takes discipline to eat healthily and to exercise. It takes even more discipline to run a marathon. It takes discipline to <a href="http://www.scottsmerchek.com/dealing-with-information-overload">handle all the streams of information</a> in our lives. And, of course, it takes discipline to be a professional software developer or to practice <a href="http://en.wikipedia.org/wiki/Software_craftsmanship">software craftsmanship</a>. Any mere programmer can sling together a working solution to a problem, but it takes skill and discipline to write <a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_ss_tl?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0132350882">clean code</a>.</p>
+
+<blockquote><p>&#8220;My simplest explanation of discipline is to refer to it as intentional suffering. It is the act of insisting that the body, the mind, and the spirit engage in challenges that build up capacity and stamina.&#8221; (156-157)</p>
+
+<p><a href="http://www.amazon.com/gp/product/0785287914/ref=as_li_tf_tl?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0785287914">A Resilient Life</a> by <a href="http://www.amazon.com/gp/entity/Gordon-MacDonald/B001IR1KBM/?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=ur2&amp;qid=1327981962&amp;camp=1789&amp;sr=8-1&amp;creative=390957">Gordon MacDonald</a></p></blockquote>
+
+<p>I feel like this is why it is so easy to lack discipline. Discipline takes sacrifice; it&#8217;s not going to be easy, but it will be for your benefit. <a href="http://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a> (TDD) is one of the disciplines of software craftsmanship. It&#8217;s not easy at first. In fact, I&#8217;m still struggling to practice TDD consistently. It feels like a chore right now, but I can see how it is building me up to be a better developer that writes better code.</p>
+
+<blockquote><p>&#8220;<a href="http://en.wikipedia.org/wiki/Thomas_Merton">[Thomas] Merton</a> offers an idea that seems paradoxical: We are most free when we are under discipline.&#8221; (151)</p>
+
+<p>&#8220;The joy, the freedom that comes with the finished product is exhilarating. But the road of disciplinary activity that led to the finished product is fraught with struggle.&#8221; (151)</p>
+
+<p><a href="http://www.amazon.com/gp/product/0785287914/ref=as_li_tf_tl?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0785287914">A Resilient Life</a> by <a href="http://www.amazon.com/gp/entity/Gordon-MacDonald/B001IR1KBM/?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=ur2&amp;qid=1327981962&amp;camp=1789&amp;sr=8-1&amp;creative=390957">Gordon MacDonald</a></p></blockquote>
+
+<p>The struggle that we face while we try to be disciplined in our craft is worth it; we just need see the fruits of our labor that lie ahead. In software development, it&#8217;s too easy to only see the next deadline and not the big picture. If I&#8217;m not thinking about how this code will be maintained a year from now and I lack the discipline to write clean code, then it will be a burden later on. Without tests, I or someone else will not have the freedom to modify the code without worry of breaking something.</p>
+
+<p>Having seen a piece of code that is fully tested and easy to understand is very freeing. The only reason for my code to lack tests or to be hard to understand is a lack of discipline. In order to have the freedom to write elegant, correct, working, easy to maintain software, we need to be disciplined.</p>
+
+<blockquote><p>&#8220;By doing things regularly and repetitively, one acquires the ability to do something far more effectively and in a way that inspires others.&#8221; (160)</p>
+
+<p><a href="http://www.amazon.com/gp/product/0785287914/ref=as_li_tf_tl?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0785287914">A Resilient Life</a> by <a href="http://www.amazon.com/gp/entity/Gordon-MacDonald/B001IR1KBM/?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=ur2&amp;qid=1327981962&amp;camp=1789&amp;sr=8-1&amp;creative=390957">Gordon MacDonald</a></p></blockquote>
+
+<p>This ought to be our goal - to be effective and inspire others with our work. I&#8217;m not there yet, but I&#8217;m trying every day. There may be days where I fail, but hopefully at the end of the week or the month, I will find that I am more disciplined than the week or month before. And I know that there are many areas of my life where I need to practice discipline. In fact, there is a correlation between a lack of discipline in one area of my life and a lack of discipline in another. We need to be disciplined as whole individuals, not just in our profession.</p>
+
+<p>I&#8217;ll leave you with Paul&#8217;s instruction to overseers in the church, which is just as applicable to us all today. Discipline is certainly not a new concept.</p>
+
+<blockquote><p>For an overseer, as God&#8217;s steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain, but hospitable, a lover of good, self-controlled, upright, holy, and disciplined.</p>
+
+<p><a href="http://www.esvbible.org/Titus+1.7-8/">(Titus 1:7-8 ESV)</a></p></blockquote>
+
+<p>The &#8220;Code Casts for Software Professionals&#8221; by <a href="https://twitter.com/#!/unclebobmartin">Uncle Bob Martin</a> at http://www.cleancoders.com/ partially inspired this article. Uncle Bob has also written a book on software professionalism &#8211; <a href="http://www.amazon.com/gp/product/0137081073/ref=as_li_ss_tl?ie=UTF8&amp;tag=scotsmer-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0137081073">The Clean Coder: A Code of Conduct for Professional Programmers</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dealing with Information Overload (and Improving Effectiveness) - The Takeaway]]></title>
+    <link href="http://smerchek.github.com/blog/2012/01/26/dealing-with-information-overload/"/>
+    <updated>2012-01-26T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/01/26/dealing-with-information-overload</id>
+    <content type="html"><![CDATA[<p>Scott Hanselman&#8217;s (<a href="https://twitter.com/#!/shanselman">@shanselman</a>) talk was probably one of the most immediately applicable talks at CodeMash. It was full of ideas, insights, and actionable items. In this article, I&#8217;ll try to tease out the main points of Scott&#8217;s presentation along with the action items. I&#8217;ll also detail my own answers to the questions and how I&#8217;m dealing with information overload.</p>
+
+<blockquote><p><strong>Effectiveness</strong>: doing the right things &#8211; goal-oriented</p>
+
+<p><strong>Efficiency</strong>: doing things in an economical way &#8211; process-oriented</p></blockquote>
+
+<p>There is a difference between effectiveness and efficiency. I&#8217;m all about efficiency, but without effectiveness, efficiency is wasted. I can be really efficient at reading the latest blog posts and some books, but if that reading doesn&#8217;t provide value then it is not effective.</p>
+
+<h2>Psychic Weight</h2>
+
+<p>There is a &#8220;psychic weight&#8221; upon us where we constantly iterate over the things that we need to do. If we try to be aware of everything, then it will bog us down. Some things just need to be &#8220;let go&#8221;.</p>
+
+<h3>Dropping Packets</h3>
+
+<p>Scott advocates &#8220;dropping packets&#8221; (get rid of the cruft and ignore the unimportant). One way that I&#8217;ve dropped packets is that I don&#8217;t commit to reading every tweet that shows up on my stream. It&#8217;s okay if I skip some; it&#8217;s not the end of the world. I actually remember what a burden it was to &#8220;catch up&#8221; on 18 hours of tweets that I missed. It&#8217;s okay &#8211; let it go.</p>
+
+<h3>Find a Trusted Source</h3>
+
+<p>Put stuff in a trusted source to get it out of your mind. That trusted source could be <a href="http://www.evernote.com">Evernote</a>, Google tasks, or a even a small moleskin. It just needs to be your default place to go for jotting down to-dos and other things to remember. I&#8217;ve done this occasionally, but I&#8217;ve switched between trusted sources too much. I think I&#8217;m going to stick with Evernote. It&#8217;s very freeing to just jot stuff down and not have to keep remembering it. Evernote has search built-in, which is even better.</p>
+
+<h2>Signal vs Noise</h2>
+
+<p>Scott suggests sorting the signal from the noise and getting rid of the noise. In order to do this, one must identify their data streams (the information inputs into their life). Some examples are twitter, email, push notifications from anything, TV episodes, chores around the house, any other social network. Then, if life gets busy, drop the least important things.</p>
+
+<p>Scott boldly stated &#8220;Twitter is never important,&#8221; which honestly took be aback for a second. I thought to myself, &#8220;this coming from @shanselman? Not possible&#8221;. But really, it&#8217;s not. Twitter is not that important and it can be dropped if other things are more important.</p>
+
+<p>An easy way to sort email is by setting up rules and filters for Outlook/Gmail. Scott has a great blog post on setting up some good filters for Outlook <a href="http://www.hanselman.com/blog/TheThreeMostImportantOutlookRulesForProcessingMail.aspx">here</a>.</p>
+
+<h4>Data streams I&#8217;ve identified in my life (in order of perceived importance):</h4>
+
+<ol>
+<li>Spending time with Christie (my wife)</li>
+<li>Living out my Christian Faith</li>
+<li>Handling finances and house obligations</li>
+<li>Hanging out with friends/neighbors</li>
+<li>Reading non-fiction books</li>
+<li>Growing in software development skills</li>
+<li>Volunteering/Open Source</li>
+<li>Reading &#8216;for-pleasure&#8217; books</li>
+<li>Watching TV Shows</li>
+<li>Reading Twitter (Keeping up with news/current events and finding good articles to read)</li>
+<li>Reading Twitter for the sake of Twitter</li>
+<li>Playing Skyrim</li>
+</ol>
+
+
+<h2>Improvements at Work</h2>
+
+<p>We can really improve our efficiency at work merely by being aware of the &#8220;number and type of internal things we do that interrupt ourselves&#8221; and &#8220;the number and type of external interruptions.&#8221; How many times have you just opened a new tab to go to Twitter or click on some random web page. I know I do (sometimes I even open a page and then close it&#8230; then do it again). I have no idea why, but knowing that I can distract myself in this way is a good step towards preventing it.</p>
+
+<p>Scott also recommends the <a href="http://www.pomodorotechnique.com/">pomodoro technique</a> which is a 25 minute unit of time to focus. In this way you can &#8220;schedule work sprints,&#8221; then take a short break. I&#8217;ve yet to put this into practice, but it certainly sounds like an effective idea.</p>
+
+<h2>Summary</h2>
+
+<p>Dealing with all of the data that bombards us everyday is hard. Every social media application, blog, or website is vying for our attention. We need to be selective with the things that we give our attention to. Have you thought about how to prioritize your data streams? Feel free to leave a comment below about some of your action items.</p>
+
+<p>You can find more productivity tips from Scott Hanselman <a href="http://www.hanselman.com/blog/CategoryView.aspx?category=Productivity">here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CodeMash 2.0.1.2: There and back again]]></title>
+    <link href="http://smerchek.github.com/blog/2012/01/23/codemash-2012-there-and-back-again/"/>
+    <updated>2012-01-23T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/01/23/codemash-2012-there-and-back-again</id>
+    <content type="html"><![CDATA[<p>CodeMash this year was my first. I had a wonderful time learning, splashing around at the water park, playing dominion, meeting new people, and of course eating the food.</p>
+
+<h2>Precompilers</h2>
+
+<h3><a href="http://www.codemash.org/Sessions/Precompiler#Fundamental+Ruby+on+Rails+(Half+Day%2c+AM)">Ruby on Rails</a></h3>
+
+<h4>Jeff Casimir - <a href="https://twitter.com/#!/j3">@j3</a></h4>
+
+<p>This precompiler was a great introduction to Ruby on Rails. The time was well spent with a good balance between instruction and on-your-own coding. The week prior to CodeMash, I had spent quite a bit of time learning Ruby using the koans, but I hadn&#8217;t played with Rails yet, so this session was a perfect fit. I came out of the precompiler with a good understanding of Rails basics, a working demo on my machine, and lots of good resources to continue learning.</p>
+
+<p>Resources: http://tutorials.jumpstartlab.com/</p>
+
+<h3><a href="http://www.codemash.org/Sessions/Precompiler#Creative+Problem+Solving+(Half+Day+PM)">Creative Problem Solving</a></h3>
+
+<h4>Jessie Shternshus - <a href="https://twitter.com/#!/TheImprovEffect">@TheImprovEffect</a></h4>
+
+<p>This was an extremely stretching, challenging, and fun precompiler. I&#8217;m so glad that I went to it despite any misgivings I had at the time towards improv. I&#8217;m just not that fond of doing those sorts of things, but Jessie structured the time such that everyone eventually felt comfortable enough to really get into the activities. I learned about myself (I need be okay with &#8216;failing&#8217; or not looking perfect, and I need to speak up more). I also have a deeper insight into the discussions that we have at work. Too often, our conversations are being derailed by &#8220;no, but&#8221; type responses and the few outspoken people often dominate conversations. Hopefully, we can work on this.</p>
+
+<h2>Sessions</h2>
+
+<h3><a href="http://www.codemash.org/Sessions#Introducing+iOS+Programming">Introducing iOS Programming</a></h3>
+
+<h4>Gun Makinabakan</h4>
+
+<p>I enjoyed this session. It was a good introduction with a lot of good tips throughout. Gun had a lot of good tips and it was very apparent that he knew what he was talking about. He has seen the various improvements to developing iOS overtime and he can rightly appreciate how much easier it is now. I&#8217;m excited to try my hand at an app or two to play around, and I think I&#8217;m well equipped to start now.</p>
+
+<h3><a href="http://www.codemash.org/Sessions#Building+Windows+8+Applications+with+HTML+5+and+jQuery">Building Windows 8 Applications with HTML5 and jQuery</a></h3>
+
+<h4>Rich Dudley - <a href="https://twitter.com/#!/rj_dudley">@rj_dudley</a></h4>
+
+<p>There was a lot of content in this talk. Rich is a good speaker and was very passionate about what he was saying which made it an entertaining talk. I do, however, feel like I didn&#8217;t get a whole lot out of this talk. The biggest thing I learned, was that Microsoft is going to make it difficult to write these apps because they have disabled things like the inspection tool. Seriously, that&#8217;s one of the best things about HTML/js development. So, I wish I would have gone to <a href="http://www.codemash.org/Sessions#Vagrant%3a+Virtualized+Development+Environments+Made+Simple">Vagrant: Virtualized Development Environments Made simple</a>. I definitely will be looking into Vagrant on my own.</p>
+
+<p>Resources: http://cl.ms/cm2012</p>
+
+<h3><a href="http://www.codemash.org/Sessions#Cooking+Up+Environments+with+Chef">Cooking Up Environments with Chef</a></h3>
+
+<h4>Colin Gemmell - <a href="https://twitter.com/#!/colin_gemmell">@colin_gemmell</a></h4>
+
+<p>This was a short, to-the-point talk on Chef. It was a good overview of Chef&#8217;s capabilities. He didn&#8217;t leave Windows out of the fun and had a few suggestions for Windows, but acknowledged it&#8217;s definitely not completely there yet. Chef definitely has a lot of potential and I hope to use it in some manner to streamline environment building.</p>
+
+<p>Resources: http://www.opscode.com/chef</p>
+
+<h3><a href="http://www.codemash.org/Sessions#Blazing+Fast+Backend+Services+using+Node.js+and+MongoDB">Blazing Fast Backend Services using Node.js and MongoDB</a></h3>
+
+<h4>Mark Gustetic - <a href="https://twitter.com/#!/markgustetic">@markgustetic</a></h4>
+
+<p>This was not a great talk. Unfortunately, I stayed for a while, hoping he would have some great insight, but it never came. The demo was bland and nodejs and mongoDb are just too big to cover in a significant way for a beginner talk. Perhaps my expectations were just too high or I was mislead by the title/abstract. I&#8217;m excited about these technologies, but I did not learn anything useful from this talk.</p>
+
+<h3><a href="http://www.codemash.org/Sessions#Effective+Data+Visualization%3a+The+Ideas+of+Edward+Tufte">Effective Data Visualization: The Ideas of Edward Tufte</a></h3>
+
+<h4>David Giard - http://www.davidgiard.com/</h4>
+
+<p>This was a beautiful presentation. We examined many examples of both good and bad data visualizations while David explained the whys and why-nots of each one. I learned a lot that I hope to apply to our reporting and analytics features at Softek. The only problem that he could not address was how to have data-integrity with dynamically generated charts. I&#8217;m going to have to play with that one.</p>
+
+<h3><a href="http://www.codemash.org/Sessions#Polyglot+Programming%3a+The+Power+of+Hybridization">Polyglot Programming: The Power of Hybridization</a></h3>
+
+<h4>Bruce Eckel - http://www.bruceeckel.com/</h4>
+
+<p>There were a lot of good thoughts in this presentation. Bruce is a good speaker and very knowledgeable. The idea is to not optimize early and use the best tool for the job. I think at Softek, it has been easy to merely stick to the tools we have. We are a .NET shop&#8230; how can we even think to use something else? But we really need to be aware of what else is out there that could help us to be more effective at our job.</p>
+
+<p>Resources: http://tinyurl.com/ehybrid</p>
+
+<h3><a href="http://www.codemash.org/Sessions#NEW+-+Dealing+with+Information+Overload">Dealing with Information Overload</a></h3>
+
+<h4>Scott Hanselman - <a href="https://twitter.com/#!/shanselman">@shanselman</a></h4>
+
+<p>Scott is a very good presenter. Very good. This talk was very applicable right now. All of us struggle with being busy and with having too many things to do in some way or another. This talk really helped me to evaluate what&#8217;s important and how to handle what isn&#8217;t important. I got a lot out of this and may be able to write another post about the action items I gathered from it.</p>
+
+<p>Resources: http://www.hanselman.com/ (A lot of the tools and ideas Scott mentioned are on his blog)</p>
+
+<h3><a href="http://www.codemash.org/Sessions#CI%2b%2b%3a+Going+Beyond+Continuous+Integration">CI++: Going Beyond Continuous Integration</a></h3>
+
+<h4>Alex Papadimoulis - <a href="https://twitter.com/#!/apapadimoulis">@apapadimoulis</a></h4>
+
+<p>I liked this talk. Alex had a lot of insight into CI related things. Our CI at Softek is pretty good, but I definitely have realized that our configuration is way too complicated. We could do a better job at seeing a build through the various stages of a release (staging -> test -> production). We do pretty good with database changes, but it still could be better.</p>
+
+<h3><a href="http://www.codemash.org/Sessions#Capability+vs.+Suitability">Capability vs Suitability</a></h3>
+
+<h4>Gary Bernhardt - <a href="https://twitter.com/#!/garybernhardt">@garybernhardt</a></h4>
+
+<p>Gary took us through the history of programming examining transitions in capability and suitability, expansions and contractions, and activity and progress. I really enjoyed this talk. I never really thought of the transitions between languages and paradigms in this way. Gary proposed that we are entering a contraction/suitability phase. It&#8217;ll be interesting to see how things play out in the years to come.</p>
+
+<h2>Final Thoughts</h2>
+
+<p>I didn&#8217;t make it to any Open Spaces conversation, although I wish I had. I either didn&#8217;t see any that interested me at the time or I missed seeing them. It&#8217;d be cool if next year, those were a little more visible and accessible throughout the conference.</p>
+
+<p>The best talks seemed to be ones where it was obvious that the speaker had a good understanding of the topic and the topic went beyond a mere intro/demo. Talks that examined ideas, pushed me to think and evaluate, were the best ones.</p>
+
+<p>It was hard to for me to decide what sessions to go to, and I often had to make a decision on the spot. I did plan it out ahead, though. I just have broad interests. I will definitely be looking into resources/videos of the talks that I couldn&#8217;t make it to. The learning doesn&#8217;t stop once you leave CodeMash&#8211;it&#8217;s only the beginning.</p>
+]]></content>
+  </entry>
   
 </feed>
