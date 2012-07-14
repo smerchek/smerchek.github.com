@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: collaboration | Scott Smerchek]]></title>
+  <link href="http://smerchek.github.com/blog/categories/collaboration/atom.xml" rel="self"/>
+  <link href="http://smerchek.github.com/"/>
+  <updated>2012-07-14T08:44:28-05:00</updated>
+  <id>http://smerchek.github.com/</id>
+  <author>
+    <name><![CDATA[Scott Smerchek]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Area User Groups: A Collaborative Approach]]></title>
+    <link href="http://smerchek.github.com/blog/2012/02/08/area-users-groups-a-collaborative-approach/"/>
+    <updated>2012-02-08T00:00:00-06:00</updated>
+    <id>http://smerchek.github.com/blog/2012/02/08/area-users-groups-a-collaborative-approach</id>
+    <content type="html"><![CDATA[<p>Lately, I've been dissatisfied with some of our Kansas City technical user groups. If the topic for the evening is interesting, I will usually go. However, when I do attend, I often leave disappointed.</p>
+
+<p>Why? The main reason is that these user groups consist of one or two people speaking <em>at</em> a group of 20 or so other people. This doesn't provide a great environment for the group. There aren't any stimulating conversations, it's hard to get to know others in the group—it just feels empty.</p>
+
+<p>So, how can this problem be resolved?</p>
+
+<h2>Trying something different</h2>
+
+<p>A couple coworkers (<a href="http://dunkman.org">Andrew Dunkman</a>, <a href="http://twitter.com/joeandaverde">Joe Andaverde</a>, and <a href="http://twitter.com/dustyburwell">Dusty Burwell</a>) and myself are trying something different. We started <a href="http://www.nodekc.org">NodeKC</a>.</p>
+
+<p>Not only did we want a group where we could play with and learn <a href="http://www.nodejs.org">node</a>, we wanted a group that was exciting to be a part of, and one that didn't leave you disappointed. While starting this group, we thought through a lot of things that we disliked about other groups that we were attending.</p>
+
+<p>We also thought about the main reasons people want to go to a user group. People want to learn. They want to connect with others with similar interests. They want to be able to apply what they learn. And they want to be able to go beyond their day-to-day job and do something fun.</p>
+
+<p>So, I would like to propose some "foundational concepts" that we decided will guide our group. Hopefully, they will apply to other groups as well.</p>
+
+<h2>Foundational Concepts</h2>
+
+<h3>Collaborative project-based meetups</h3>
+
+<p>We want to collaborate with others, not just listen to one person. We want to learn by doing. We want to create something. And like many, we could use some cred on <a href="http://github.com">GitHub</a>. We hope that this environment fosters a engaged community that encourages helping others and learning from each other.</p>
+
+<h3>Interesting location with collaborative seating</h3>
+
+<p>A classroom is not going to work for this group. We want a location that encourages creativity and collaboration. And it doesn't hurt if there is beer served there as well. Our first meetup was at <a href="http://snowandcompany.com/">Snow and Company</a> which worked well because we could rearrange the seating and huddle in one or two groups.</p>
+
+<h3>Facilitate contact sharing and meeting new people</h3>
+
+<p>We want new people to feel welcome and to be able to easy connect with others in the group. We want to encourage knowing others in the group well. We're hoping the collaboration dynamic will help with this. Also, we'll be switching up pairing and teams every time to ensure good cross-pollination.</p>
+
+<h3>Encourage failing</h3>
+
+<p>This is one I learned at <a href="http://www.scottsmerchek.com/codemash-2012-there-and-back-again">CodeMash</a>. We want to have an environment where it is okay to fail. When we fail, we learn, and that is okay. If we are afraid to go out of our comfort zone, then we will never reach our full potential. We have to be okay with failing to make this collaboration thing work.</p>
+
+<h3>Prerequisites made known ahead of time</h3>
+
+<p>Since we're going to be actually coding, we want everyone to know how to get setup ahead of time. We hope that everyone can get the boilerplate done ahead of time, so we can focus on the interesting stuff. We try to make these known through our <a href="http://groups.google.com/group/nodekc">google group</a> and <a href="http://twitter.com/nodekc">twitter</a>.</p>
+
+<h3>No supplied food</h3>
+
+<p>We want to attract people genuinely interested in node and contributing to the group. Free food or not, these people will come, but we don't want to advertise free food and attract the wrong people. This affects the timing of our meetup, so we start a 7:00pm to allow people the time to get food before attending.</p>
+
+<h2>Takeaway</h2>
+
+<p>I hope that our approach will work for more than just our group. If you already have a group like this, then great! If you wish you did, then start one! If you organize a group, maybe these concepts don't all apply, but hopefully you can apply them in a way that fits the dynamics and intricacies in your group.</p>
+
+<p>I realize that every group is different, and this approach may even fail terribly months from now. But for now, it's working pretty great. If you have ideas or critiques, please do leave a comment!</p>
+]]></content>
+  </entry>
+  
+</feed>
